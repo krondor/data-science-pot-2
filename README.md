@@ -1,4 +1,4 @@
-[](blob/master/dsx_logo.png?raw=true)
+[](blob/dsx_logo.png?raw=true)
 
 # Spark,	Machine	Learning,	Operationalization, Decision Optimization, and Graphical Modelling
 

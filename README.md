@@ -1,4 +1,4 @@
-[](blob/dsx_logo.png?raw=true)
+![Data Science Experience](blob/dsx_logo.png?raw=true "Data Science Experience")
 
 # Spark,	Machine	Learning,	Operationalization, Decision Optimization, and Graphical Modelling
 

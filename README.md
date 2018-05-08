@@ -1,5 +1,3 @@
-![Data Science Experience](blob/dsx_logo.png?raw=true "Data Science Experience")
-
 <p align="center">
   <img src="blob/dsx_logo.png?raw=true" alt="Data Science Experience Logo"/>
 </p>

@@ -1,5 +1,9 @@
 ![Data Science Experience](blob/dsx_logo.png?raw=true "Data Science Experience")
 
+<p align="center">
+  <img src="blob/dsx_logo.png?raw=true" alt="Data Science Experience Logo"/>
+</p>
+
 # Spark,	Machine	Learning,	Operationalization, Decision Optimization, and Graphical Modelling
 
 ## POT Hands on Labs

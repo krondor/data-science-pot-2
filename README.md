@@ -29,4 +29,5 @@ Expect to spend a half day of lecture and hands on exercises attacking real-worl
 
 ## Data Science Experience POT 1 Assets
 Notebooks and assets from DSX POT 1
+
 [Data Science Experience POT 1](https://github.com/krondor/data-science-pot)

@@ -26,3 +26,7 @@ Expect to spend a half day of lecture and hands on exercises attacking real-worl
   - 12:30 pm - 1:15 pm Lab3 Nurse Scheduling with IBM Decision Optimization
   - 1:15 pm - 2:00 pm Use Case Discussion
   - 2:00 pm - 3:00 pm    Wrap up & Additional Questions
+
+## Data Science Experience POT 1 Assets
+Notebooks and assets from DSX POT 1
+[Data Science Experience POT 1](https://github.com/krondor/data-science-pot)

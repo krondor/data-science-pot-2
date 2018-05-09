@@ -1,0 +1,7 @@
+Activity,Duration in days,Preceding activities,Possible Accountants
+Gather Information,35,,"Melissa, Jack"
+Establish Objectives,15,,"Melissa,Jim"
+Analyze Finances,40,Gather Information,Jack
+Develop Financial Plan,15,Establish Objectives,"Melissa,Jack"
+Implement Plan,5,Develop Financial Plan,"Melissa,Jack"
+Review Implementation,10,Implement Plan,"Jack,Jim"

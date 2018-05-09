@@ -2,13 +2,13 @@
   <img src="blob/dsx_logo.png?raw=true" alt="Data Science Experience Logo"/>
 </p>
 
-# Spark,	Machine	Learning,	Operationalization, Decision Optimization, and Graphical Modelling
+# Spark,	Machine	Learning,	Operationalization, Decision Optimization, and Graphical Modeling
 
 ## POT Hands on Labs
 Hands on Introduction to Apache Spark, NLP, ML and Operationalizing Models  for Data  Engineers, Data Scientist and Developers
 
 ### POT Summary
-IBM is offering a no charge proof of technology for clients and practitioners on Apache Spark, Natural Language Processing, Watson Machine Learning and the Operationalizing of the Scoring Model.
+IBM is offering a no charge proof of technology for clients and practitioners on Apache Spark, Machine Learning, Operationalization, Decision Optimization, and Graphical Modeling.
 
 This is a half day of education with hands on exercisesinstructed in person by Open Sourceexperts. The POT will provide a detail overview and the exercises will be performed on Jupyter notebooks with publiclyavailable datasets. Participants will use IBM’s flexible data science offering.
 
